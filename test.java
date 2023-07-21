@@ -1,9 +1,4 @@
-class PrimeNumbers
-{
-   public static void main (String[] args)
-   {		
-       i =0;
-       int num =0;
+int i = 0;
        //Empty String
        String  primeNumbers = "";
 
